@@ -1,0 +1,7 @@
+/new_api/__pycache__
+/new_api/routes/__pycache__
+/new_api/config/__pycache__
+/new_api/app/services/__pycache__
+/new_api/app/schemas/__pycache__
+/new_api/app/controllers/__pycache__
+/new_api/app/__pycache__

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+elastic-apm
+pydantic
+pydantic-settings
+python-multipart
+python-dotenv
+slowapi
+aiohttp
+clickhouse-connect
+gunicorn
+langchain-google-vertexai
+uvicorn
+fastapi
